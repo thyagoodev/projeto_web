@@ -1,0 +1,42 @@
+/*
+seletor{
+    propriedade: valor;
+    propriedade: valor;
+}
+*/
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: blueviolet;
+}
+
+p {
+    font-family: helvetica;
+    text-align: justify;
+    line-height: 36px;
+    color: rgb(8, 228, 209);
+}
+
+#paragrafo01 {
+    margin-left: 250px;
+    text-transform: uppercase;
+}
+
+#paragrafos02 {
+    margin-right: 300px;
+    background-color: black;
+
+}
+
+.paragrafos{
+    font-family: 'Courier New',Courier;
+    font-size: 2.3em;
+    line-height: 80px;
+}
+
+.parag_especial {
+    text-decoration: line-through;
+    background-color: aliceblue;
+}
