@@ -1,22 +1,22 @@
 #div-form {
-    width: 500px;
-    min-height: 600px;
+    width: 700px;
+    min-height: 450px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #f6faf8;
-    border-radius: 16px;
+    background-color: #fafafa88;
+    border-radius: 8px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 h3 {
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 10px;
 }
 
 #form {
-    background-color: #1332bb;
-    padding: 10px;
+    background-color: #20df0f;
+    padding: 7px;
 }
 
 label {
@@ -26,6 +26,55 @@ label {
     letter-spacing: 5px;
     font-size: 1.6em;
 }
+
+.input-vlr01, .input-vlr02{
+    height: 35px;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 1.3em;
+}
+
+.input-vlr02{
+    width: 250px;
+}
+
+input [type="radio"], input[type="checkbox"]{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+    padding: 20px;
+    resize: none;
+}
+
+#div-btns {
+    border: solid 5px rgb(0, 60, 255);
+    margin: 20px 0px;
+}
+
+button {
+    width: 140px;
+    height: 30px;
+    cursor: pointer;
+}
+
+input::placeholder{
+    color: aqua;
+    letter-spacing: 5px;
+}
+
+
+
+
+
+
+
+
+
 
 
 
