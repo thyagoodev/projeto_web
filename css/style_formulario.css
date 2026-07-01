@@ -63,7 +63,7 @@ button {
 }
 
 input::placeholder{
-    color: aqua;
+    color: rgb(0, 47, 255);
     letter-spacing: 5px;
 }
 
